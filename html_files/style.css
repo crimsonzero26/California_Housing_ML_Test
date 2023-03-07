@@ -80,7 +80,7 @@ p{
 
 .navbar{
     text-align: right;
-    background-color: rgb(4, 82, 39);
+    background-color: rgb(68, 34, 34);
     color: rgb(51, 131, 250);
     font-size: xx-large;  
 }
@@ -91,7 +91,7 @@ p{
 
 #a0{
     color: rgb(51, 131, 250);
-    font-size: large;
+    font-size: xx-large;
 }
 
 .nav-link:hover{
